@@ -1,5 +1,8 @@
 body {
   font-family: Source Sans Pro, sans-serif;
-  background: #020202;
+  background: #000204;
+  background-image: linear-gradient(to bottom, #002244, #000204);
+  background-repeat: no-repeat;
   color: #F0F0F0;
+  text-shadow: 0.2rem 0.2rem 0.1rem rgba(0,2,4,0.8);
 }
